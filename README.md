@@ -74,38 +74,17 @@ If you used the `Fedora` theme as in the previous example, the title page graphi
 
 ---
 
+### Necessary steps to make that work flawlessly
+In order not to have the sidebar on the title page, which kind of spoils the whole experience, use the `[plain]` option of the ***frame*** environment. 
+
+---
+\begin{frame}[plain]
+Frame content
+\end{frame}
+---
+
 ## Enjoy the template
 
 Write your slides and present on Fedora related topics.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
